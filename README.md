@@ -76,8 +76,7 @@ This segmentation helps businesses:
 ## 📁 Files in this Repo
 
 - `RFM_Project.ipynb` – full analysis notebook
-- `RFM_Customer_Segmentation.xlsx` – cleaned RFM export
-- `Customer_Segment_Pie.png` – pie chart image (optional)
+- `Customer_Segment_Pie.png` – pie chart image 
 - `README.md` – project documentation
 
 ---
