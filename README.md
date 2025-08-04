@@ -92,4 +92,4 @@ This segmentation helps businesses:
 
 ## 📬 Let's Connect
 
-If you like this project or want to collaborate, feel free to connect on [LinkedIn](htt)
+If you like this project or want to collaborate, feel free to connect on [LinkedIn](https://www.linkedin.com/in/aishwarya-chintaluru-6797732bb/)
