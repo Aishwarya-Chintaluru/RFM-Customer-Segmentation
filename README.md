@@ -56,7 +56,8 @@ This project performs **Customer Segmentation using RFM (Recency, Frequency, Mon
 
 ### ▶ Segment Distribution (Pie Chart)
 
-![Customer Segment Distribution]("C:\Users\vinay\Downloads\Customer_Segment_Pie.png")
+![Customer Segment Distribution]
+<img width="578" height="470" alt="Customer_Segment_Pie" src="https://github.com/user-attachments/assets/2db0602d-2979-44f4-a643-473de365a764" />
 
 - Majority fall under "Others"
 - Champions, Loyal, and At-Risk customers represent key marketing targets
